@@ -28,7 +28,7 @@ url: "https://kirti003shukla.github.io/"
 github:
   username: Kirti003Shukla # change to your GitHub username
 
-linkedin:
+twitter:
   username: twitter_username # change to your Twitter username
 
 social:
@@ -41,7 +41,7 @@ social:
     # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/Kirti003Shukla # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/username
     - https://www.linkedin.com/in/kirti-s-2455b9ba/
 
 # Site Verification Settings
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/img/imresizer.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
