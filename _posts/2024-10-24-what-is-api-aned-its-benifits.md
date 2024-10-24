@@ -12,6 +12,7 @@ Formats- XML, JSON
 For example: When a client wants to access specific data from the server, it sends the request through API. The API processes the request and returns the data in the required format.
 
 Real Life Example-
+
 Third-Party Login
 
 Many web applications allow users to sign in with their Facebook, Google, Github, or other accounts instead of making an account directly. But that doesn’t mean they’re getting access to your social media. Instead, the app makes an API call to check if the user is already signed in to the third-party website. The API makes the confirmation, then handles the authentication in the app’s place.
