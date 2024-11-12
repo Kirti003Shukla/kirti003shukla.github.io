@@ -7,10 +7,14 @@ tags: [AGILE]
 Agile methodology is a project management and software development approach that emphasizes flexibility, collaboration, and customer satisfaction. It promotes iterative development, where projects are broken down into smaller, manageable increments or "sprints" (typically lasting 2-4 weeks).
 
 ## Key Elements of Agile
-Iterative Development: Development is broken into small cycles (sprints) with specific deliverables at the end of each.
-Frequent Feedback: Regular feedback from the client or stakeholders after each sprint to ensure the project aligns with their needs.
-Collaboration: Cross-functional teams work together, often including clients, designers, developers, and testers.
-Adaptability: Teams are encouraged to adapt based on feedback and any new requirements that arise during the project.
+### Iterative Development:
+Development is broken into small cycles (sprints) with specific deliverables at the end of each.
+### Frequent Feedback:
+Regular feedback from the client or stakeholders after each sprint to ensure the project aligns with their needs.
+### Collaboration:
+Cross-functional teams work together, often including clients, designers, developers, and testers.
+### Adaptability:
+Teams are encouraged to adapt based on feedback and any new requirements that arise during the project.
 Agile Frameworks
 Agile is a mindset, not a strict set of rules. However, various frameworks help implement Agile principles, such as Scrum, Kanban, and Extreme Programming (XP).
 
