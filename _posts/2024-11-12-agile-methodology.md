@@ -1,6 +1,6 @@
 ---
 title: "Agile Methodology"
-date: 2024-10-09
+date: 2024-11-12
 categories: [Software Development]
 tags: [AGILE]
 ---
